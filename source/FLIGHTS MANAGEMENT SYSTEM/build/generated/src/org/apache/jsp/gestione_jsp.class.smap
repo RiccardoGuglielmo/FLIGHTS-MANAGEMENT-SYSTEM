@@ -1,0 +1,18 @@
+SMAP
+gestione_jsp.java
+JSP
+*S JSP
+*F
++ 0 gestione.jsp
+gestione.jsp
++ 1 header.jspf
+header.jspf
++ 2 nav.jspf
+nav.jspf
+*L
+1,14:50
+1#1,4:64
+14#0,5:68
+1#2,8:73
+18#0,43:81
+*E

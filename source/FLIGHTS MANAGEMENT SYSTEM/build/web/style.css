@@ -1,0 +1,199 @@
+
+root { 
+    display: block;
+}
+
+*{
+    font-family: 'Courier New',Courier,monospace;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
+#container{
+    width: 90%;
+    margin: 0 auto;
+    height: auto;
+}
+
+header{
+    padding: 20px;
+    text-align: center;
+}
+
+header h1{
+    color: black;
+    font-size: 32pt;
+    letter-spacing: 15px;
+    background-color: transparent;
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    width: auto;
+    background-color: #0270ad;
+    border-radius: 10px;
+    text-align: center;
+}
+
+nav a{
+    color: white;
+    width: auto;
+    margin: 20px;
+    padding: 20px;
+    text-decoration: none;
+    background-color: transparent;
+    font-size: 14pt;
+}
+
+nav a:hover{
+    background-color: #0cadfe;
+}
+
+article{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+table{
+    margin: 0 auto;
+}
+
+table td{
+    padding-top: 50px;
+    text-align: center;
+    padding-right: 100px;
+}
+
+table td a{
+    color: white;
+    width: 500px;
+    height: 100px;
+    text-decoration: none;
+    font-size: 24pt;
+    background-color: #0270ad;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+table td a:hover{
+    background-color: #0cadfe;
+}
+
+#box{
+    margin: 0 auto;
+    text-align: justify;
+    background-color: #0270ad;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+#box p{
+    color: white;
+    background-color: transparent;
+}
+
+#box b{
+    color: white;
+    background-color: transparent;
+}
+
+#box u{
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+#box a{
+    color: white;
+    background-color: transparent;
+}
+
+.rl{
+    margin: 0 auto;
+    border-right-style: none;
+    border-left-style: none;
+    border-bottom-style: none;
+    border-top-style: none;
+}
+
+.rl td{
+    padding: 30px;
+}
+
+.center{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.label{
+    text-align: right;
+}
+
+.button{
+    border-radius: 10px;
+    width: 180px;
+    background-color: #0270ad;
+    color: white;
+}
+
+.but{
+    border-radius: 10px;
+    width: 100px;
+    background-color: #0270ad;
+    color: white;
+}
+
+.tabtime{
+    padding: 0;
+    margin: 0;
+    width: 180px;
+    font-size: 14px;
+}
+
+.tabtime tr{
+    padding: 0;
+    margin: 0;
+}
+
+.tabtime td{
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+.f{
+    padding: 40px;
+    border-style: solid;
+    border-width: 1.5px;
+    border-color: #0270ad;
+}
+
+.voli{
+    margin: 0 auto;
+}
+
+.voli tr{
+    text-align: center;
+}
+
+.voli td{
+    color: white;
+    font-size: 13pt;
+    background-color: #0270ad;
+    border-radius: 4px;
+    padding: 6px;
+}
+
+.prenota{
+    margin: 0 auto;
+    border-right-style: none;
+    border-left-style: none;
+    border-bottom-style: none;
+    border-top-style: none;
+}
+
+.prenota td{
+    padding: 10px;
+}
